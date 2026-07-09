@@ -1,248 +1,171 @@
-<div align="center">
-
 # Hi 👋 I'm Maqsood Shaikh
 
 ### Engineering Manager • Platform Architect • Backend Engineer • Cloud • AI
 
-**Engineering scalable software, intelligent data platforms, cloud infrastructure, and AI-driven solutions.**
+> **Engineering scalable software, intelligent data platforms, cloud
+> infrastructure, and AI-driven solutions.**
 
-Building enterprise-grade systems with a passion for architecture, automation, performance engineering, and modern cloud technologies.
+## 👨‍💻 About Me
 
-</div>
+Engineering Manager with 10+ years of experience designing, building and
+modernizing enterprise software, cloud-native data platforms, AI-powered
+engineering solutions and high-performance backend systems.
 
----
+-   🏗️ Enterprise Architecture & Platform Engineering
+-   ☁️ AWS, Azure & Google Cloud
+-   🗄️ PostgreSQL, SQL Server, ClickHouse, MySQL
+-   🤖 AI Engineering, MCP, AI Agents & Automation
+-   🚀 Backend Development & System Design
+-   👥 Engineering Leadership & Delivery Management
 
-# 👨‍💻 About Me
+------------------------------------------------------------------------
 
-I am an **Engineering Manager** with over **7 years of experience** designing, building, optimizing, and modernizing enterprise software platforms.
+## 🚀 Core Expertise
 
-My experience spans the complete software engineering lifecycle—from solution architecture and backend development to cloud-native data platforms, AI-powered engineering, DevOps automation, and technical leadership.
+-   Software Engineering
+-   Backend Engineering
+-   Platform Engineering
+-   Database Engineering
+-   Cloud Engineering
+-   AI Engineering
+-   DevOps & Automation
+-   Performance Optimization
+-   System Design
+-   Engineering Leadership
 
-I enjoy solving complex engineering challenges, building scalable systems, mentoring engineering teams, and delivering production-ready solutions that create measurable business impact.
+------------------------------------------------------------------------
 
----
+## ☁️ Cloud
 
-# 🚀 Areas of Expertise
+**AWS:** Aurora PostgreSQL, RDS, DMS, SCT, Glue, CloudWatch, IAM
 
-- Software Engineering
-- Backend Engineering
-- Platform Engineering
-- Database Engineering
-- Cloud Engineering
-- AI Engineering
-- Data Engineering
-- System Architecture
-- Performance Engineering
-- Engineering Leadership
+**Azure:** Azure Data Studio, Azure Cosmos DB
 
----
+**Google Cloud:** Cloud SQL
 
-# ☁ Cloud Technologies
+------------------------------------------------------------------------
+
+## 💻 Languages & Backend
+
+Python • SQL • PL/pgSQL • T-SQL • C# • JavaScript • Bash
+
+REST APIs • JSON • XML • Microservices • High Availability
 
-### Amazon Web Services (AWS)
+------------------------------------------------------------------------
 
-- Aurora PostgreSQL
-- Amazon RDS
-- AWS DMS
-- AWS SCT
-- AWS Glue
-- CloudWatch
-- IAM
+## 🗄️ Databases
 
-### Microsoft Azure
+-   PostgreSQL
+-   Aurora PostgreSQL
+-   Microsoft SQL Server
+-   ClickHouse
+-   MySQL
+-   Redis
+-   MongoDB
+-   Azure Cosmos DB
 
-- Azure Cosmos DB
-- Azure Data Studio
-- Azure Fundamentals
+### Specializations
 
-### Google Cloud Platform
+-   Database Architecture
+-   Data Modeling
+-   Query Optimization
+-   Execution Plan Analysis
+-   Performance Tuning
+-   ETL / ELT
+-   CDC
+-   Replication
+-   High Availability
+-   Disaster Recovery
+-   Data Migration
 
-- Cloud SQL
+------------------------------------------------------------------------
 
----
+## 🤖 AI
 
-# 💻 Programming & Backend
+-   ChatGPT
+-   Claude
+-   Cursor
+-   Ollama
+-   MCP Servers
+-   AI Agents
+-   Prompt Engineering
+-   AI-powered Automation
 
-### Languages
+------------------------------------------------------------------------
 
-- Python
-- SQL
-- T-SQL
-- PL/pgSQL
-- C#
-- JavaScript
-- Bash
+## ⚙️ DevOps
 
-### Backend
+Git • GitHub • GitHub Actions • Docker • Sqitch • CI/CD • Shell • Cron •
+Windows Task Scheduler
 
-- REST APIs
-- JSON
-- XML
-- Microservices
-- High Performance APIs
+------------------------------------------------------------------------
 
----
+## 🛠️ Tools
 
-# 🗄 Database Technologies
-
-### Relational Databases
-
-- PostgreSQL
-- Aurora PostgreSQL
-- Microsoft SQL Server
-- MySQL
-- Babelfish
-
-### Analytics
-
-- ClickHouse
-
-### NoSQL
-
-- Redis
-- MongoDB
-- Azure Cosmos DB
-
----
-
-# ⚡ Database Expertise
-
-- Database Architecture
-- Data Modeling
-- Query Optimization
-- Execution Plan Analysis
-- Performance Tuning
-- Index Optimization
-- Partitioning
-- ETL / ELT
-- Data Migration
-- CDC
-- High Availability
-- Disaster Recovery
-- Replication
-- Database Automation
-
----
-
-# 🤖 AI Engineering
-
-- AI-assisted Software Development
-- MCP Servers
-- AI Agents
-- ChatGPT
-- Claude
-- Cursor
-- Ollama
-- AI Automation
-- Prompt Engineering
-
----
-
-# ⚙ DevOps & Automation
-
-- Git
-- GitHub
-- CI/CD
-- Sqitch
-- Docker
-- Shell Scripting
-- Windows Task Scheduler
-- Cron
-- Python Automation
-
----
-
-# 🛠 Tools & Platforms
-
-- DBeaver
-- SQL Server Management Studio
-- pgAdmin
-- Visual Studio
-- Visual Studio Code
-- JIRA
-- Confluence
-- Figma
-
----
-
-# 🏗 Solution Architecture
-
-Experienced in designing and delivering:
-
-- Enterprise Applications
-- Cloud-native Data Platforms
-- High Availability Systems
-- Multi-tenant Architectures
-- Distributed Systems
-- Real-time Data Platforms
-- Analytics Platforms
-- Database Modernization
-- Legacy System Migration
-
----
-
-# 👥 Engineering Leadership
-
-- Engineering Management
-- Technical Leadership
-- Solution Architecture
-- People Management
-- Mentoring
-- Hiring & Interviews
-- Technical Reviews
-- Code Reviews
-- Agile Delivery
-- Sprint Planning
-- Stakeholder Management
-- Cross-functional Collaboration
-
----
-
-# 🌍 Domain Experience
-
-- Sports Technology
-- Financial Services
-- Banking
-- Telecom
-- Enterprise SaaS
-
----
-
-# 🌱 Currently Exploring
-
-- Kubernetes
-- Platform Engineering
-- AI Agents
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Distributed Databases
-- Cloud-native Architectures
-
----
-
-# 💡 Engineering Philosophy
-
-> Build software that is scalable.
->
-> Design systems that are reliable.
->
-> Automate everything that can be automated.
->
-> Optimize continuously.
->
-> Lead with ownership, collaboration, and engineering excellence.
-
----
-
-# 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/maqsoodshaikh
-- 🐦 X: https://x.com/maqsoodzone3
-
----
-
-<div align="center">
-
-### "Great engineering is not just about writing code. It's about building systems that scale, teams that grow, and solutions that last."
-
-</div>
+-   DBeaver
+-   SQL Server Management Studio (SSMS)
+-   pgAdmin
+-   MySQL Workbench
+-   AWS Schema Conversion Tool (AWS SCT)
+-   AWS Database Migration Service (AWS DMS)
+-   Azure Data Studio
+-   SQLSpider
+-   Visual Studio
+-   Visual Studio Code
+-   Power BI
+-   JIRA
+-   Confluence
+-   Figma
+
+------------------------------------------------------------------------
+
+## 👥 Leadership
+
+-   Engineering Management
+-   Technical Leadership
+-   Solution Architecture
+-   People Management
+-   Hiring & Mentoring
+-   Code Reviews
+-   Sprint Planning
+-   Agile Delivery
+-   Stakeholder Management
+-   Cross-functional Collaboration
+
+------------------------------------------------------------------------
+
+## 🏢 Industry Experience
+
+-   Sports Technology
+-   Financial Services
+-   Banking
+-   Logistics
+-   Information Technology
+-   Healthcare
+-   Real Estate
+-   Consumer Staples
+-   Telecommunications
+-   Enterprise SaaS
+
+------------------------------------------------------------------------
+
+## 🌱 Currently Exploring
+
+-   Kubernetes
+-   Platform Engineering
+-   Distributed Systems
+-   AI Agents
+-   RAG
+-   Cloud-native Architectures
+
+------------------------------------------------------------------------
+
+## 📫 Connect
+
+-   LinkedIn: https://linkedin.com/in/maqsoodshaikh
+-   X: https://x.com/maqsoodzone3
+
+------------------------------------------------------------------------
+
+> **Build software that scales. Design systems that last. Automate
+> relentlessly. Lead with ownership.**
