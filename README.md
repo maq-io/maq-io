@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Maqsood Shaikh
 
-[![Engineering Manager](https://img.shields.io/badge/Engineering_Manager-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maq-io)
+[![Engineering Manager](https://img.shields.io/badge/Engineering_Manager-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maq-io)
 [![Platform Architect](https://img.shields.io/badge/Platform_Architect-2563EB?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/maq-io)
 [![Cloud Architect](https://img.shields.io/badge/Cloud_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/maq-io)
 [![AI Engineer](https://img.shields.io/badge/AI_Engineer-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/maq-io)
