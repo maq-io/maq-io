@@ -1,5 +1,9 @@
 # Hi 👋 I'm Maqsood Shaikh
-
+![Engineering Manager](https://img.shields.io/badge/Engineering_Manager-1E3A8A?style=for-the-badge)
+![Platform Architect](https://img.shields.io/badge/Platform_Architect-2563EB?style=for-the-badge)
+![Backend Engineer](https://img.shields.io/badge/Backend_Engineer-0F766E?style=for-the-badge)
+![Cloud Engineer](https://img.shields.io/badge/Cloud_Engineer-F59E0B?style=for-the-badge)
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-7C3AED?style=for-the-badge)
 ### Engineering Manager • Platform Architect • Backend Engineer • Cloud • AI
 
 > **Engineering scalable software, intelligent data platforms, cloud
