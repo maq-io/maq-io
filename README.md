@@ -4,7 +4,6 @@
 ![Backend Engineer](https://img.shields.io/badge/Backend_Engineer-0F766E?style=for-the-badge)
 ![Cloud Engineer](https://img.shields.io/badge/Cloud_Engineer-F59E0B?style=for-the-badge)
 ![AI Engineer](https://img.shields.io/badge/AI_Engineer-7C3AED?style=for-the-badge)
-### Engineering Manager • Platform Architect • Backend Engineer • Cloud • AI
 
 > **Engineering scalable software, intelligent data platforms, cloud
 > infrastructure, and AI-driven solutions.**
