@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b,334155,475569&height=200&section=header&text=MAQSOOD%20SHAIKH&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Database%20Architect%20%7C%20Engineering%20Manager%20%7C%20Data%20Platform%20Leader&descSize=16&descAlignY=55&descColor=cbd5e1" width="100%" />
 </p>
 
-<p align="center">
-  <i>Designing and scaling distributed data systems, database platforms, and AI-augmented engineering workflows.</i>
+<p align="center" style="font-family: Georgia, serif; font-size: 2.00rem; font-style: italic; max-width: 900px; margin: 0 auto; line-height: 1.6; color: #cbd5e1;">
+  <i>Leading the strategic evolution of cloud-native infrastructure, I architect and scale high-performance, multi-tenant distributed data platforms engineered for enterprise-grade throughput and resilience. By synthesizing technical depth with executive leadership, I deliver end-to-end database transformations while pioneering intelligent, AI-augmented workflows and automated DBA toolchains that optimize operations.</i>
 </p>
 
 <table align="center" cellspacing="0" cellpadding="0">
@@ -11,6 +11,7 @@
     <td><img src="https://img.shields.io/badge/CLOUD_NATIVE-1e293b?style=for-the-badge" /></td>
     <td><img src="https://img.shields.io/badge/PERFORMANCE-3b82f6?style=for-the-badge" /></td>
     <td><img src="https://img.shields.io/badge/MIGRATIONS-8b5cf6?style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/DATABASE_TRANSFORMATION-991b1b?style=for-the-badge" /></td>
     <td><img src="https://img.shields.io/badge/AI_AUGMENTED-f59e0b?style=for-the-badge" /></td>
     <td><img src="https://img.shields.io/badge/DATA_PLATFORM-10b981?style=for-the-badge" /></td>
   </tr>
@@ -20,8 +21,8 @@
 
 <h3 align="center"><font color="#f0abfc">🧠 Engineering Philosophy</font></h3>
 
-<p align="center">
-  <i>"A database platform is never 'done' — it is a living system that demands continuous right-sizing, query hardening, and architectural evolution."</i>
+<p align="center" style="font-family: Georgia, serif; font-size: 1.00rem; font-style: italic; max-width: 900px; margin: 0 auto; line-height: 1.6; color: #cbd5e1;">
+  <i>"An elite data platform seamlessly unifies architectural precision, cloud-native resilience, and AI-driven automation. True engineering leadership means transforming data infrastructure from a complex operational cost center into a high-velocity catalyst for enterprise innovation, scale, and business value."</i>
 </p>
 
 <br/>
