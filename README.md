@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b,334155,475569&height=200&section=header&text=MAQSOOD%20SHAIKH&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Database%20Architect%20%7C%20Engineering%20Manager%20%7C%20Data%20Platform%20Leader&descSize=16&descAlignY=55&descColor=cbd5e1" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,25:C4B5FD,50:F9A8D4,75:A7F3D0,100:FDE68A&height=220&section=header&text=MAQSOOD%20SHAIKH&fontSize=42&fontColor=1F2937&animation=twinkling&fontAlignY=35&desc=Database%20Architect%20%7C%20Engineering%20Manager%20%7C%20Data%20Platform%20Leader&descSize=16&descAlignY=56&descColor=374151"
+    width="100%"
+    alt="Maqsood Shaikh"
+  />
 </p>
 
 <p align="center" style="font-family: Georgia, serif; font-size: 2.00rem; font-style: italic; max-width: 1000px; margin: 0 auto; line-height: 1.6; color: #cbd5e1;">
