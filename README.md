@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b,334155,475569&height=200&section=header&text=MAQSOOD%20SHAIKH&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Database%20Architect%20%7C%20Engineering%20Manager%20%7C%20Data%20Platform%20Leader&descSize=16&descAlignY=55&descColor=cbd5e1" width="100%" />
 </p>
 
-<p align="center" style="font-family: Georgia, serif; font-size: 2.00rem; font-style: italic; max-width: 900px; margin: 0 auto; line-height: 1.6; color: #cbd5e1;">
+<p align="center" style="font-family: Georgia, serif; font-size: 2.00rem; font-style: italic; max-width: 1000px; margin: 0 auto; line-height: 1.6; color: #cbd5e1;">
   <i>Leading the strategic evolution of cloud-native infrastructure, I architect and scale high-performance, multi-tenant distributed data platforms engineered for enterprise-grade throughput and resilience. By synthesizing technical depth with executive leadership, I deliver end-to-end database transformations while pioneering intelligent, AI-augmented workflows and automated DBA toolchains that optimize operations.</i>
 </p>
 
